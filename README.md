@@ -20,9 +20,17 @@
 ## How to use
   - เริ่มต้นเปิดโปรเเกรม :
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/start.png">
-  - Create json ไฟล์ > Data Name > Save > เลือกที่เก็บไฟล์ > Save
+  - Create json ไฟล์ > Data Name > Save > เลือกที่เก็บไฟล์ > Save :
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/create.png">
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/success.png">
+  - ต่อไปที่หน้า Edit จากนั้นให้ทำการกรอกค่าโดยจะมีทั้งหมดจะมี 4 ค่า
+    1. Date (วันที่)
+    2. Description (รายละเอียด)
+    3. Income (รายรับ)
+    4. Expenses (รายจ่าย)
+    
+  - โดยตัวอย่างจะกรอก Date = 5/2/2019, Description = ข้าว, น้ำ, Income = 150, Expenses =  40
+    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/edit.png">
     
 ## Member
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
