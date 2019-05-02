@@ -33,7 +33,10 @@
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/edit.png">
     
   - เมื่อกรอกเสร็จเรียบร้อยเเล้วก็จะได้ค่าตามตัวอย่าง :
-    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/edit.png">
+    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/json.png">
+    - โดยจะมีค่าที่เพิ่มมาคือ Total (คงเหลือ)
+ 
+    ## โดยไฟล์ JSON สามารถนำไป Rest API หรือ นำไปเเสดงผลใน App ต่างๆ ได้
     
 ## Member
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
