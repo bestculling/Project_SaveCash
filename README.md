@@ -23,14 +23,20 @@
   - Create json ไฟล์ > Data Name > Save > เลือกที่เก็บไฟล์ > Save :
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/create.png">
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/success.png">
-  - ต่อไปที่หน้า Edit จากนั้นให้ทำการกรอกค่าโดยจะมีทั้งหมดจะมี 4 ค่า
+  - ต่อไปที่หน้า Edit จากนั้นให้ทำการกรอกค่าโดยจะมีทั้งหมดจะมี 4 ค่า :
      - Date (วันที่)
      - Description (รายละเอียด)
      - Income (รายรับ)
      - Expenses (รายจ่าย)
     
-  - โดยตัวอย่างจะกรอก Date = 5/2/2019, Description = ข้าว, น้ำ, Income = 150, Expenses =  40
+  - โดยตัวอย่างจะกรอก Date = 5/2/2019, Description = ข้าว, น้ำ, Income = 150, Expenses =  40 :
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/edit.png">
+    
+  - เมื่อกรอกเสร็จเรียบร้อยเเล้วก็จะได้ค่าตามตัวอย่าง :
+    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/json.png">
+    - โดยจะมีค่าที่เพิ่มมาคือ Total (คงเหลือ)
+ 
+    ## โดยไฟล์ JSON สามารถนำไป Rest API หรือ นำไปเเสดงผลใน App ต่างๆ ได้
     
 ## Member
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
