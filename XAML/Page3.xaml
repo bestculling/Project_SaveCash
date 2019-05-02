@@ -24,7 +24,7 @@
                 </SplitView.Background>
             </SplitView>
 
-            <TextBlock FontSize="72" Text="JSON Data" Margin="340,20,0,0" FontFamily="FC Lamoon"/>
+            <TextBlock FontSize="38" Text="JSON Data" Margin="340,20,0,0" FontFamily="FC Lamoon" FontWeight="Bold"/>
         </RelativePanel>
         <TextBlock HorizontalAlignment="Left" Margin="450,125,0,0" Text="Select Data File" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <Button Content="Select" Margin="604,117,0,0" VerticalAlignment="Top" Click="findData" RenderTransformOrigin="6.746,1.032"/>

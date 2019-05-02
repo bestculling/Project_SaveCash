@@ -27,7 +27,7 @@
                 </SplitView.Background>
             </SplitView>
 
-            <TextBlock FontSize="72" Text="Edit Data" Margin="340,20,0,0" FontFamily="FC Lamoon"/>
+            <TextBlock FontSize="38" Text="Edit Data" Margin="340,20,0,0" FontFamily="FC Lamoon" FontWeight="Bold"/>
 
 
 
