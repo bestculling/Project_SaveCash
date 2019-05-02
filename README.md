@@ -16,10 +16,13 @@
 
 ## Features
   สามารถ Create Edit Show และสามารถนำข้อมูล json ไปโชว์ที่ไหนก็ได้
-  <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/start.png">
 
 ## How to use
-  เริ่มต้นเปิดโปรเเกรม :
+  - เริ่มต้นเปิดโปรเเกรม :
+    - <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/start.png">
+  - Create json ไฟล์ > Data Name > Save > เลือกที่เก็บไฟล์ > Save
+    - <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/create.png">
+    - <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/success.png">
     
 ## Member
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
