@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://docs.microsoft.com/en-us/windows/uwp/get-started/images/universalapps-overview.png">
- </p>
 # SaveCash
 # ![](img/Home.png) Introduction
 # ![](https://png.icons8.com/ios/50/000000/table-of-content.png) Table of Contents
