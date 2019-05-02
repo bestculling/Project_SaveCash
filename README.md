@@ -15,7 +15,12 @@
      <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/config.png">
 
 ## Features
-สามารถสร้าง แก้ไข้ โชว์ และสามารถนำข้อมูล json ไปโชว์ที่ไหนก็ได้
+  สามารถ Create Edit Show และสามารถนำข้อมูล json ไปโชว์ที่ไหนก็ได้
+  <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/start.png">
+
+## How to use
+  เริ่มต้นเปิดโปรเเกรม :
+    
 ## Member
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
 |:---------:| :-------------: |:---------------------:| :-------------: |
