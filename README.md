@@ -1,7 +1,7 @@
 # SaveCash 🌐
 
 ## Introduction
-    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/UWP.png">
+   <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/UWP.png">
 
 
 ## Technology Requirements
