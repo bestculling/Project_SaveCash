@@ -10,8 +10,9 @@
   - XAML (UI)
 ## Configuration
   - ในการพัฒนา Universal Windows Platform ใน Windows 10 นั้นต้องเปิดโหมด Developer
-    - <b>Settings > Update & Security > For developers > Developer mode</b>
-    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/config.png">
+    - <b>Settings > Update & Security > For developers > Developer mode</b><br/>
+    
+     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/config.png">
 
 ## Features
 สามารถสร้าง แก้ไข้ โชว์ และสามารถนำข้อมูล json ไปโชว์ที่ไหนก็ได้
