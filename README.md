@@ -24,10 +24,10 @@
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/create.png">
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/success.png">
   - ต่อไปที่หน้า Edit จากนั้นให้ทำการกรอกค่าโดยจะมีทั้งหมดจะมี 4 ค่า
-    1. Date (วันที่)
-    2. Description (รายละเอียด)
-    3. Income (รายรับ)
-    4. Expenses (รายจ่าย)
+     - Date (วันที่)
+     - Description (รายละเอียด)
+     - Income (รายรับ)
+     - Expenses (รายจ่าย)
     
   - โดยตัวอย่างจะกรอก Date = 5/2/2019, Description = ข้าว, น้ำ, Income = 150, Expenses =  40
     <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/edit.png">
