@@ -1,6 +1,17 @@
-# SaveCash
+# SaveCash 🌐
 # ![](img/Home.png) Introduction
 # ![](https://png.icons8.com/ios/50/000000/table-of-content.png) Table of Contents
+## Technology Requirements
+  - Visual Studio 
+  - Windows 10
+  - Universal Windows Platform development (UWP)
+## Language
+  - C++ (UWP C++)
+  - XAML (UI)
+## Configuration
+  - ในการพัฒนา Universal Windows Platform ใน Windows 10 นั้นต้องเปิดโหมด Developer
+    - <b>Settings > Update & Security > For developers > Developer mode</b>
+
 ## Features
 สามารถสร้าง แก้ไข้ โชว์ และสามารถนำข้อมูล json ไปโชว์ที่ไหนก็ได้
 ## Member
@@ -21,3 +32,7 @@
 ภาคเรียนที่ 2 ปีการศึกษา 2561<br>
 คณะเทคโนโลยีสารสนเทศ<br>
 สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง<br>
+
+## 🔗 อ้างอิง
+  https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide
+  https://docs.microsoft.com/en-us/uwp/api/windows.data.json.jsonobject
