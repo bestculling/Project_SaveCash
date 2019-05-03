@@ -1,13 +1,16 @@
 # SaveCash 🌐
 
 ## Introduction
-   <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/UWP.png">
+   <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/poster.jpg">
 
 
 ## Technology Requirements
   - Visual Studio 
   - Windows 10
   - Universal Windows Platform development (UWP)
+   <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/UWP.png">
+  
+  
 ## Language
   - C++ (UWP C++)
   - XAML (UI)
