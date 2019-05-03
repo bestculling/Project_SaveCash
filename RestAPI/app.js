@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 
-var readData = fs.readFileSync('Database.json');
+var readData = fs.readFileSync('champ.json');
 var parseData = JSON.parse(readData);
 
 http.createServer(function (req, res) {
