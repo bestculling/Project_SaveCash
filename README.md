@@ -3,6 +3,10 @@
 ## Introduction
    <img src = "https://github.com/bestculling/Project_SaveCash/blob/master/Imgs/poster.jpg">
 
+## Video
+   - https://www.youtube.com/watch?v=j8bY5VMpFb8&feature=youtu.be
+
+
 
 ## Technology Requirements
   - Visual Studio 
